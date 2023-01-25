@@ -140,18 +140,17 @@ clock.ontick = (evt) => {
                   }
   
   //change dog
-  dog.image = "dog/dog" + bg + "v" + version + + "m"+ minutes%2+ "a"+ seconds%2;
+  if (bg == 0) {dog.image = "dog/dog" + bg + "v" + version + "m"+ mins%3+ "a"+ seconds%2+ ".png";}
+  else{
+  dog.image = "dog/dog" + bg + "v" + version + "m"+ mins%2+ "a"+ seconds%2+ ".png";}
   
   //Change Foreground
      if (((util.zeroPad(hours) >= 0) && (util.zeroPad(hours) <= 5)) || (util.zeroPad(hours) >= 20)){ 
                   monthobject.image="background/"+ months+ "2.png";
-                  bg = 2;
-     }
-                  
+                  bg = 2;             
      } else if (((util.zeroPad(hours) > 5 ) && (util.zeroPad(hours) < 12 )) || ((util.zeroPad(hours) > 18) &&                              (util.zeroPad(hours) < 20 ))){ 
        monthobject.image="background/"+ months+ "0.png"; 
         bg = 0;        
-      
      }else if ((util.zeroPad(hours) >= 12) && (util.zeroPad(hours) <= 18 )){
                    monthobject.image="background/"+ months+ "1.png";
                    bg = 1;
