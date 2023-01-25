@@ -42,7 +42,7 @@ let monthobject = document.getElementById("monthobject");
 let hearts = document.getElementById("hearts");
 let version = 0;
 let bg = 0;
-
+const button1 = document.getElementById("button-2");
 //Update the clock every second 
 clock.granularity = "seconds";
 
@@ -138,6 +138,11 @@ clock.ontick = (evt) => {
                     heartlabel.class  = "labellightblue";
                     stairslabel.class  = "labellightblue";
                   }
+  
+  //button
+  button1.onactivate = function(evt) { version++; }
+  
+  if (version > 3){version = 0;}
   
   //change dog
   if (bg == 0) {dog.image = "dog/dog" + bg + "v" + version + "m"+ mins%3+ "a"+ seconds%2+ ".png";}
