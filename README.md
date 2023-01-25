@@ -5,7 +5,7 @@ Clockface for Fitbit Versa 2 and Versa Version 4.3
 
 Stats heavy watch, filled with cute interactions, daily changing pictures, and fun surprises.
 
-![Alt text](https://github.com/SarahBass/Digital-Pet-Puppy---Versa-2/blob/main/promo/bestpromo.png)
+![Alt text](https://github.com/SarahBass/Digital-Pet-Puppy---Versa-2/blob/main/promo/shibapromo.png)
 
 Contents: | Description:
 --------- | ------------
