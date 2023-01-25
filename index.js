@@ -142,7 +142,7 @@ clock.ontick = (evt) => {
   //button
   button1.onactivate = function(evt) { version++; }
   
-  if (version > 3){version = 0;}
+  if (version > 2){version = 0;}
   
   //change dog
   if (bg == 0) {dog.image = "dog/dog" + bg + "v" + version + "m"+ mins%3+ "a"+ seconds%2+ ".png";}
