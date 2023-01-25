@@ -1,0 +1,76 @@
+----------DESCRIPTION:----------
+
+Digital Pet Puppy is a clockface with animated puppies that you can power up with your steps!
+
+Have fun exercising and power up your digital pet while you reach your goals. This amazing FREE clock has monthly background changes, and three background changes per day. Click on the bottom of the screen to switch between three dogs. Each dog has different animations based on morning, afternoon, and evening. This clock also has an automatic Dark Mode enabled at 10PM-6AM.
+
+All dogs were modeled after real puppies from Orange County, California!
+
+*Mako, a Shiba, has all the sass, gas, and attitude of the true Shiba Inu breed (also known popularly as a 'Doge'). *
+
+*Mr. Crunchy, a blue merle, has two blue eyes and looks like a cute mix between a Pomeranian, Husky, and Australian Shepherd. *
+
+*Butterball, a rescue dog from Los Angeles, likes to sleep with his legs 'sploot' and looks like a fluffy mix between a Sheltie and a Papillon.*
+
+-------------------Monthly Themes:-----------------------
+
+January: Snow, Penguin, Ice cream
+
+February: Turtle, Tennis Ball, Bear
+
+March: Clovers, Rainbow, Bugs
+
+April: Easter, Tennis Ball, Cherry Blossom
+
+May: Fruit, Cinco De Mayo, Veggies
+
+June: School, Graduate, Study
+
+July: Party, Sun, Picnic
+
+August: Beach, Sand, Island
+
+September: School, Apples, Honey
+
+October: Witch, Wizard, Pumpkin, Treasure
+
+November: Leaves, Cold Weather, Turkey
+
+December: Santa, Yule, Hanukkah
+
+-----------------------STATS-----------------------
+
+Clock: 12 Hour or 24 Hour
+
+Walk: Miles or KM
+
+Fire : Total Daily Calories Burned
+
+Stairs: Total Daily Floors
+
+Bolt: Total Daily Active Minutes
+
+Heart : Heart Rate (Click Star to Start)
+
+Footprints: Total Daily Steps
+
+Food Bowl: Percent% of your goal reached
+
+--------------------------------------------------------
+
+---SETTINGS---
+
+If set active, goal, and calorie permissions are not turned on, it will print "Nan", "Null", or "0". Heart Rate activated when you click Star, click again to turn off to save battery. Heart monitor turns on when it senses change.
+
+---UPDATES ---
+
+This is a new release 2023, and may need updates to fix small issues. Press 'Update' to get the newest version if available. Check out our other 2023 Digital Clockfaces : https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd.
+
+---DOWNLOAD ---
+
+Download time may be slow. Connect to charger with a good wifi connection for best results. Website link for Download Support provided. This is a large file. 1.7 MB
+
+Details
+TAGSFallSummerSpringDigitalActive Zone MinutesStats HeavyWinter
+OFFERED BYSarah Bass
+VISIT WEBSITE
