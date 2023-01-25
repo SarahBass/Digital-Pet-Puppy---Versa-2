@@ -69,7 +69,9 @@ All dogs were modeled after real puppies from Orange County, California!
 ![Alt text](https://github.com/SarahBass/Digital-Pet-Puppy---Versa-2/blob/main/promo/holidaypromo.png)
 
 
+To publish to Versa 2, Versa, and Versa Lite some settings were changed to work with SDK 4.3
 
+The older 4.3 SDK uses .gui instead of .view and .defs. Fitbit 2019 4.3 SDK link: [Internet Archive](https://web.archive.org/web/20191102093406/https://dev.fitbit.com/build/guides/user-interface/svg-components/buttons/#button-with-icon). 
 
 
 
