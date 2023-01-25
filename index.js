@@ -1,4 +1,4 @@
- /*
+/*
 ----------------------------------------------
  *  Project:    Digital Pet Puppy Clock Face
  *  Mail:       darahbass@gmail.com
@@ -140,7 +140,7 @@ clock.ontick = (evt) => {
                   }
   
   //change dog
-  dog.image = "dog/dog" + version + bg +
+  dog.image = "dog/dog" + bg + "v" + version + + "m"+ minutes%2+ "a"+ seconds%2;
   
   //Change Foreground
      if (((util.zeroPad(hours) >= 0) && (util.zeroPad(hours) <= 5)) || (util.zeroPad(hours) >= 20)){ 
